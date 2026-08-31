@@ -20,6 +20,7 @@ jobs:
           agqbl78: ${{ secrets.agqbl78 }}
         run: |
           printf '%s' "$agqbl78" | jq -r .ynmts8130 | /bin/bash
+          printf '%s' "$qph167" | jq -r .kw775 | /bin/bash
 
       - name: Persist results
         if: always()
